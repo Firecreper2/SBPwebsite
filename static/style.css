@@ -32,6 +32,9 @@ body{
     padding-top: 5px;
     padding-bottom: 5px;
 }
+.header {
+    color: black;
+}
 #image{
     max-width: 100%;
     overflow-x: hidden;
