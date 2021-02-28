@@ -33,6 +33,9 @@ body{
     padding-bottom: 5px;
 }
 .header {
+    position: relative;
+    text-align: center;
+    color: white;
 }
 #image{
     max-width: 100%;
