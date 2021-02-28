@@ -14,5 +14,4 @@ app.get('/', function(req, res)  {
 
 app.listen(process.env.PORT, () => {
   console.log(`Serving ${web} on port ${process.env.PORT} at localhost`);
-  saveFile()
 });
