@@ -28,3 +28,6 @@ body{
     color: white;
     transition: 0.25s;
 }
+.topbar a.logo{
+    padding: 1px;
+}
