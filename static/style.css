@@ -63,5 +63,8 @@ body{
 #about{
     width: 40vw;
     height: 400px;
-    background-color: lightgray;
+    background-color: white;
+}
+#intro{
+    padding: 20px;
 }
