@@ -40,6 +40,7 @@ body{
 #image{
     max-width: 100%;
     overflow-x: hidden;
+    margin: 0;
 }
 .head-text{
     position: absolute;
@@ -60,7 +61,7 @@ body{
     transform: translate(-50%, 35px);
 }
 #about{
-    width: 20vw;
+    width: 40vw;
     height: 400px;
-    background-color: white;
+    background-color: lightgray;
 }
