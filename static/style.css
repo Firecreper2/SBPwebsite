@@ -60,3 +60,7 @@ body{
 #cobble{
     transform: translate(-50%, 35px);
 }
+#about{
+    position: absolute;
+    top:400px;
+}
