@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: lightgray;
+    background-color: gray;
 }
 .topbar {
     background-color: #333;
@@ -40,7 +40,6 @@ body{
 #image{
     max-width: 100%;
     overflow-x: hidden;
-    position: absolute;
 }
 .head-text{
     position: absolute;
@@ -61,6 +60,7 @@ body{
     transform: translate(-50%, 35px);
 }
 #about{
-    position: absolute;
-    top:400px;
+    width: 20vw;
+    height: 400px;
+    background-color: white;
 }
