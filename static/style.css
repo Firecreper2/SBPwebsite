@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgray;
 }
 .topbar {
     background-color: #333;
@@ -54,5 +55,8 @@ body{
     width: 300px;
     height: 2px;
     background-color: lightgray;
-    transform: translate(-50%, 50px);
+    transform: translate(-50%, 40px);
+}
+#cobble{
+    transform: translate(-50%, 35px);
 }
